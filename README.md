@@ -1,5 +1,5 @@
 # cros
-> _"Crossword Object Syntax"_
+> _"**Cr**ossword **O**bject **S**yntax"_
 
 A markup language for writing crossword puzzles.
 
